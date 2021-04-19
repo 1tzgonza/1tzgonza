@@ -5,5 +5,5 @@ my name is kaan. i am a student I'm working on python, csharp and java. In my sp
 ## my account addresses 💬
 
 - Youtube: [ItzGonza](https://www.youtube.com/channel/UCdbH53T-h3OsnZe_2BpLzsQ)
-- Discord: [kaan#1000](https://discord.com/users/831815426278162433)
+- Discord: [lV#7557](https://discord.com/users/831815426278162433)
 - Twitter: [gonz9](https://twitter.com/gonz9)
