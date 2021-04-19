@@ -1,6 +1,6 @@
 ## myself 💨
 
-my name is kaan. i am a student I'm working on python, csharp and java. In my spare time, I spend time improving myself with javascript, code injection and reverse engineering. If you want to work with me, you can reach me through social media or my personal accounts. We can pass our name together in good works together. 👊👊
+my name is kaan. i am a student working on python, csharp and java. In my spare time, i spend time improving myself with javascript, code injection and reverse engineering. if you want to work with me, you can reach me through social media or my personal accounts. we can pass our name together in good works together.
 
 ## my account addresses 💬
 
