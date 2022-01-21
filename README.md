@@ -6,6 +6,9 @@
 
 <br/>
 
+<a href="https://github.com/itzgonza"><img alt="RivaDarlin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&&theme=light&show_icons=true&count_private=true&layout=compact&langs_count=10&a&bg_color=30,182848,4b6cb7&title_color=fff&text_color=fff" /></a>
+  <br/>
+  
 <a href="https://github.com/itzgonza/"><img alt="RivaDarlin Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itzgonza&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
