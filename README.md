@@ -1,6 +1,6 @@
 <h4 align="left">for contact</h4>
 
-- Discord: ?(i do not use it anymore)
+- Discord: [kaan#0069](https://discord.com/users/391688185727418382)
 
 <br/>
 
